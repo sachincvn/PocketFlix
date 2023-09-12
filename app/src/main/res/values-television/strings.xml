@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="live_sports">Live Sports</string>
+    <string name="live_channels">Live Events</string>
+    <string name="waste_tools">Uninstall Sniffing Tools/ Network Capture and Apk Editor Tools</string>
+</resources>

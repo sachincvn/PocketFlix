@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/networkStream"
+        app:showAsAction="ifRoom"
+        android:visible="false"
+        android:title="Network Stream"
+        android:icon="@drawable/ic_notification"/>
+    <item
+        android:id="@+id/share"
+        android:title="Share"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_share_app"/>
+    <item
+        android:id="@+id/privacy"
+        app:showAsAction="never"
+        android:title="Privacy Policy"/>
+    <item
+        android:id="@+id/terms"
+        app:showAsAction="never"
+        android:title="Terms &amp; Condition"/>
+    <item
+        android:id="@+id/contact"
+        app:showAsAction="never"
+        android:title="Contact US"/>
+
+
+</menu>
+
+

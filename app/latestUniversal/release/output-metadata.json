@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.king.flixa",
+  "variantName": "latestUniversalRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 1,
+      "versionName": "1.2",
+      "outputFile": "Just.Player.v1.2-latest-universal-release.apk"
+    }
+  ],
+  "elementType": "File"
+}

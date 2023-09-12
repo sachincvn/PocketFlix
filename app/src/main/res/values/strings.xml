@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">KingFlix</string>
+    <string name="video_resize_fit">Fit</string>
+    <string name="video_resize_crop">Crop</string>
+    <string name="video_orientation_video">Video orientation</string>
+    <string name="video_orientation_sensor">Auto-rotate</string>
+    <string name="onboarding_open_title">Choose a video to play</string>
+    <string name="onboarding_open_description">Tap to open a video file. Long tap to load external subtitles.</string>
+    <string name="open_subtitles">Load subtitles</string>
+    <string name="error_details">Details</string>
+    <string name="error_files_missing">Files app is disabled or missing</string>
+    <string name="request_scope">To automatically load external subtitles or enable skipping to next file in a directory, grant %s access to the topmost folder containing your videos (e.g. Movies).</string>
+    <string name="delete_query">Delete this file\?</string>
+    <string name="delete_confirmation">Delete</string>
+    <string name="pref_title">Settings</string>
+    <string name="pref_general_header">General</string>
+    <string name="pref_framerate_matching">Auto frame rate matching</string>
+    <string name="pref_framerate_matching_on">Switch display refresh rate to match video frame rate</string>
+    <string name="pref_framerate_matching_off">Do not change display refresh rate</string>
+    <string name="pref_tunneling">Tunneled playback</string>
+    <string name="pref_tunneling_summary">Tunneling provides better support for 4K/HDR content, but may not work on all devices</string>
+    <string name="pref_auto_pip">Auto picture-in-picture</string>
+    <string name="pref_auto_pip_on">Switch to PiP when leaving the app</string>
+    <string name="pref_auto_pip_off">Do not automatically switch to PiP</string>
+    <string name="pref_skip_silence">Skip silence</string>
+    <string name="pref_skip_silence_on">Skip parts with silence on the audio stream</string>
+    <string name="pref_skip_silence_off">Play content as is</string>
+    <string name="pref_repeat_toggle">Repeat toggle</string>
+    <string name="pref_repeat_toggle_summary">Extra control to allow indefinitely loop video (requires app restart)</string>
+    <string name="shortcut_videos">Videos</string>
+    <string name="button_open">Open</string>
+    <string name="button_crop">Resize</string>
+    <string name="button_rotate">Rotate</string>
+    <string name="button_pip">Picture-in-picture</string>
+    <string name="pref_file_access">File access</string>
+    <string name="pref_file_access_auto">Auto</string>
+    <string name="mediastore_empty">No indexed video files found. To access video files in given storage, enable automatic media scanning in system settings.</string>
+    <string name="pref_shortcuts_header">Shortcuts</string>
+    <string name="pref_captioning_preferences">Captioning preferences</string>
+    <string name="pref_decoder_priority">Decoder priority</string>
+    <string name="pref_decoder_priority_prefer_device">Prefer device decoders</string>
+    <string name="pref_decoder_priority_prefer_app">Prefer app decoders</string>
+    <string name="pref_decoder_priority_only_device">Device decoders only</string>
+    <string name="track_selection_title">Select tracks</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_selection_title_audio">Audio</string>
+    <string name="exo_track_selection_title_text">Text</string>
+    <string name="live_sports">Live Sports</string>
+    <string name="live_channels">Live Events</string>
+    <string name="special_package">Select Category</string>
+    <string name="expsports_watch_live_sports"><![CDATA[OwlFLix Watch Live Sports & TV]]></string>
+    <string name="video_resize_fill">Fill</string>
+    <string name="waste_tools">Uninstall Sniffing Tools/ Network Capture and Apk Editor Tools</string>
+    <string name="title_activity_filmy">FilmyActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+</resources>
